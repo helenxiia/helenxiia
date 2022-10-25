@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @helenxiia
 - 👀 I’m interested in fin-tech and data science!
+- 🐍 My favourite coding language is Python <3
 - 📫 How to reach me y95xia@uwaterloo.ca
 
 <!---
