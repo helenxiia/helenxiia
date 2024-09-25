@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helenxiia
-- 👀 I’m interested in the fields of fin-tech, data science and software engineering!
+- 👀 I’m interested in the fields of product, data science and data engineering!
 - 🐍 My favourite coding language is Python <3
 - 📫 How to reach me helen.xia@uwaterloo.ca
 
