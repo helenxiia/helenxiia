@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @helenxiia
+- 👋 Hi, I’m @helenxiia, currently @ AWS
 - 👀 I’m interested in the fields of product, data science and data engineering!
-- 🐍 My favourite coding language is Python <3
+- 🐍 My favourite coding language is Python 
 - 📫 How to reach me helen.xia@uwaterloo.ca
 
 <!---
